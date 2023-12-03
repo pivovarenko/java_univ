@@ -1,3 +1,7 @@
+/**
+ * Півоваренко, компмех, завдання 1.1, лаба 1
+ * @author pivovarenko
+ */
 import java.util.Scanner;
 
 public class one1_1 {
